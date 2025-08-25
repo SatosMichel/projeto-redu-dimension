@@ -19,7 +19,7 @@ O objetivo é aplicar transformações em uma imagem colorida para:
 
 ## 📂 Estrutura do Projeto
 
-- `[dimens.ipynb]`(https://github.com/SatosMichel/projeto-redu-dimension/blob/main/dimens.ipynb) → Arquivo principal com as implementações.  
+- [dimens.ipynb](https://github.com/SatosMichel/projeto-redu-dimension/blob/main/dimens.ipynb) → Arquivo principal com as implementações.  
 - `README.md` → Este arquivo de explicação do projeto.  
 
 ---
